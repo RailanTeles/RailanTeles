@@ -1,16 +1,14 @@
-## Hi there 👋
+# 👋 Olá! Eu sou o Railan Teles  
+🎓 Estudante de **Análise e Desenvolvimento de Sistemas**  
+💻 Apaixonado por **Front-end**, também programo no **Back-end** e modelo **bancos de dados**  
+🚀 Buscando me tornar um **desenvolvedor Full-Stack**  
 
-<!--
-**RailanTeles/RailanTeles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Tecnologias que uso:  
+🔹 **Linguagens:** HTML, CSS, JavaScript, Python, Java  
+🔹 **Frameworks:** React.js, Next.js  
+🔹 **Banco de Dados:** MySQL, PostgreSQL  
+🔹 **Ferramentas:** Git, VS Code 
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 **Me encontre por aqui:**  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/railan-teles-9744b52a3/)  
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RailanTeles)  
