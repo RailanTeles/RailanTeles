@@ -1,5 +1,5 @@
 # 👋 Olá! Eu sou o Railan Teles  
-🎓 Estudante de **Análise e Desenvolvimento de Sistemas**  
+🎓 Estudante de **Análise e Desenvolvimento de Sistemas** 
 💻 Apaixonado por **Front-end** e **Back-end**, mas sempre aberto a novos conhecimentos. 
 🚀 Buscando me tornar um **desenvolvedor Full-Stack**  
 
